@@ -1,0 +1,2 @@
+{"receiver":{"role":"PROPOSER","id":-1},"messageType":"PERSIST","consensusValue":"null","sender":{"role":"ACCEPTOR","id":9},"proposalId":-1,"timestamp":"2024-11-25 23:54:06.517"}
+{"receiver":{"role":"PROPOSER","id":-1},"messageType":"PERSIST","consensusValue":"null","sender":{"role":"ACCEPTOR","id":9},"proposalId":-1,"timestamp":"2024-11-25 23:54:06.522"}

@@ -1,0 +1,6 @@
+{"receiver":{"role":"PROPOSER","id":1},"messageType":"PREPARE_OK","consensusValue":"M1","sender":{"role":"ACCEPTOR","id":3},"proposalId":3889733113127567361,"timestamp":"2024-11-25 23:54:06.343"}
+{"receiver":{"role":"PROPOSER","id":1},"messageType":"ACCEPT_OK","consensusValue":"M1","sender":{"role":"ACCEPTOR","id":3},"proposalId":3889733113127567361,"timestamp":"2024-11-25 23:54:06.461"}
+{"receiver":{"role":"PROPOSER","id":-1},"messageType":"PERSIST","consensusValue":"M1","sender":{"role":"ACCEPTOR","id":3},"proposalId":3889733113127567361,"timestamp":"2024-11-25 23:54:06.485"}
+{"receiver":{"role":"PROPOSER","id":2},"messageType":"PREPARE_OK","consensusValue":"M1","sender":{"role":"ACCEPTOR","id":3},"proposalId":3889746157724696578,"timestamp":"2024-11-25 23:54:06.491"}
+{"receiver":{"role":"PROPOSER","id":2},"messageType":"ACCEPT_OK","consensusValue":"M2","sender":{"role":"ACCEPTOR","id":3},"proposalId":3889746157724696578,"timestamp":"2024-11-25 23:54:06.504"}
+{"receiver":{"role":"PROPOSER","id":-1},"messageType":"PERSIST","consensusValue":"M2","sender":{"role":"ACCEPTOR","id":3},"proposalId":3889746157724696578,"timestamp":"2024-11-25 23:54:06.515"}

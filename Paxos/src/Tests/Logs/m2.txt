@@ -1,0 +1,10 @@
+{"receiver":{"role":"ACCEPTOR","id":-1},"messageType":"PERSIST","consensusValue":"M2","sender":{"role":"PROPOSER","id":2},"proposalId":3889746157724696578,"timestamp":"2024-11-25 23:54:06.489"}
+{"receiver":{"role":"ACCEPTOR","id":0},"messageType":"PREPARE","consensusValue":"M2","sender":{"role":"PROPOSER","id":2},"proposalId":3889746157724696578,"timestamp":"2024-11-25 23:54:06.490"}
+{"receiver":{"role":"ACCEPTOR","id":1},"messageType":"PREPARE","consensusValue":"M2","sender":{"role":"PROPOSER","id":2},"proposalId":3889746157724696578,"timestamp":"2024-11-25 23:54:06.491"}
+{"receiver":{"role":"ACCEPTOR","id":2},"messageType":"PREPARE","consensusValue":"M2","sender":{"role":"PROPOSER","id":2},"proposalId":3889746157724696578,"timestamp":"2024-11-25 23:54:06.493"}
+{"receiver":{"role":"ACCEPTOR","id":3},"messageType":"PREPARE","consensusValue":"M2","sender":{"role":"PROPOSER","id":2},"proposalId":3889746157724696578,"timestamp":"2024-11-25 23:54:06.494"}
+{"receiver":{"role":"ACCEPTOR","id":0},"messageType":"ACCEPT","consensusValue":"M2","sender":{"role":"PROPOSER","id":2},"proposalId":3889746157724696578,"timestamp":"2024-11-25 23:54:06.498"}
+{"receiver":{"role":"ACCEPTOR","id":1},"messageType":"ACCEPT","consensusValue":"M2","sender":{"role":"PROPOSER","id":2},"proposalId":3889746157724696578,"timestamp":"2024-11-25 23:54:06.505"}
+{"receiver":{"role":"ACCEPTOR","id":2},"messageType":"ACCEPT","consensusValue":"M2","sender":{"role":"PROPOSER","id":2},"proposalId":3889746157724696578,"timestamp":"2024-11-25 23:54:06.510"}
+{"receiver":{"role":"ACCEPTOR","id":3},"messageType":"ACCEPT","consensusValue":"M2","sender":{"role":"PROPOSER","id":2},"proposalId":3889746157724696578,"timestamp":"2024-11-25 23:54:06.512"}
+{"receiver":{"role":"ACCEPTOR","id":-1},"messageType":"DECIDE","consensusValue":"M2","sender":{"role":"PROPOSER","id":2},"proposalId":3889746157724696578,"timestamp":"2024-11-25 23:54:06.514"}
